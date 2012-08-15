@@ -6,7 +6,7 @@
 " eddie@digik.com.tw
 
 runtime bundle/vim-pathogen/autoload/pathogen.vim
-filetype off
+"filetype off
 call pathogen#runtime_append_all_bundles()
 filetype plugin indent on
 call pathogen#infect()
